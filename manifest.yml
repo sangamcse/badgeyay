@@ -1,5 +1,5 @@
 applications:
-- name: badgeyay
+- name: badge-maker
 memory: 256M
 command: python mongo-app.py
 buildpack: https://github.com/cloudfoundry/python-buildpack.git

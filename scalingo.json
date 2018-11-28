@@ -1,9 +1,9 @@
 {
-  "name": "Badgeyay",
-  "description": "Badgeyay is a simple badge generator with a simple web UI to add data and generate printable badges in a zip.",
+  "name": "Badge Maker",
+  "description": "Badge Maker is a simple badge generator with a simple web UI to add data and generate printable badges in a zip.",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/fossasia/badgeyay",
-  "website": "https://badgeyay-dev.herokuapp.com/",
+  "repository": "https://github.com/sangamcse/badgeyay",
+  "website": "https://badge-maker.herokuapp.com/",
   "env": {
   },
   "addons": ["scalingo-redis"]

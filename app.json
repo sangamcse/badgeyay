@@ -1,10 +1,9 @@
 {
-    "name": "BadgeYay",
+    "name": "Badge Maker",
     "description": "A fully functional badges generator using flask",
-    "repository": "https://github.com/fossasia/badgeyay/",
+    "repository": "https://github.com/sangamcse/badgeyay/",
     "keywords": [
-        "badgeyay",
-        "fossasia",
+        "badge-maker",
         "flask"
     ],
     "buildpacks": [
